@@ -1,7 +1,7 @@
 AP Projecte ASIXc2Codi en PHP
 
 *** Estructura del projecte i codi a desplegar ***
-app/
+app/s
  ├── db.php         (connexió a la BBDD)
  ├── index.php      (llista usuaris + formulari per afegir-ne)
  ├── add.php        (afegeix usuari)
